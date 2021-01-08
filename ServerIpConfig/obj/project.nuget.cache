@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UPvBVRtW9KJkfd8ROfk1O55rT8XhPrAVMJ2VFYMrYu261YYm7ECi3915L39X2KFlvZWkfXtVYZ70nxKmEmIAGw==",
+  "dgSpecHash": "QNg5QKR2Pnzi0VQrtCeWuNHf4jPlu99v+3ZUDo24dt5AUQTXp7LFnCfzo1lEh6Y5bq0Da7kTp24ALEjeuAuaMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\1\\source\\repos\\xueynet\\ServerIpConfig\\ServerIpConfig.csproj",
+  "projectFilePath": "C:\\Users\\1\\source\\repos\\xueynet\\tools\\ServerIpConfig\\ServerIpConfig.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

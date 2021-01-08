@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1\\source\\repos\\xueynet\\ServerIpConfig\\ServerIpConfig.csproj",
+      "projectUniqueName": "C:\\Users\\1\\source\\repos\\xueynet\\tools\\ServerIpConfig\\ServerIpConfig.csproj",
       "projectName": "ServerIpConfig",
-      "projectPath": "C:\\Users\\1\\source\\repos\\xueynet\\ServerIpConfig\\ServerIpConfig.csproj",
+      "projectPath": "C:\\Users\\1\\source\\repos\\xueynet\\tools\\ServerIpConfig\\ServerIpConfig.csproj",
       "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1\\source\\repos\\xueynet\\ServerIpConfig\\obj\\",
+      "outputPath": "C:\\Users\\1\\source\\repos\\xueynet\\tools\\ServerIpConfig\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
